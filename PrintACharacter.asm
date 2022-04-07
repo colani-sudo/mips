@@ -1,5 +1,5 @@
 .data
-	myCharacter: .byte 'm'
+	myCharacter: .byte 'm'		#a byte needs only 8 bits since its a character
 	
 .text
 	li $v0 4		#prepare for printing
