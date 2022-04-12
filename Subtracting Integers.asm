@@ -11,3 +11,4 @@
 	move $a0, $t0			#a0 = t0
 	syscall				#do it
 	
+	
